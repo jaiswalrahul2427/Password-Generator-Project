@@ -23,3 +23,6 @@ This is a simple password generator web application built using HTML, CSS, and J
 * Paste the copied password into the desired location.
   
 ## Note: This project utilizes Tailwind CSS for styling, providing a clean and responsive user interface.
+
+![image](https://github.com/jaiswalrahul2427/Password-Generator-Project/assets/133475235/c42b6f25-a84d-461d-9f3a-396e6a49d1b1)
+
